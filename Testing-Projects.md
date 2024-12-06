@@ -13,7 +13,7 @@ All testing projects have 2 distinct characteristics:
 ```
 Warning: This project is not meant for daily use. This is a small part of [project code name]
 
-For more information click here: https://github.com/PlayerXYT/meta/Testing-Projects.md
+For more information click here: https://github.com/PlayerXYT/meta/blob/master/Testing-Projects.md
 ```
 
 # What will become of the testing projects?
